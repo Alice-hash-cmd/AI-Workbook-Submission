@@ -1,0 +1,6 @@
+45 question-response pairs read for testing your bot.
+AIML file student.aiml passes basic xml syntax checks.
+Passed aiml-specific syntax check.
+After reading your file the bot has 23 categories.
+You score 67 because your bot answered every question correctly using 23 categories.
+You can improve your score by using <condition> and <get>tag pairs within a category's template to change the bot's response depending on values your (or the bot) have stored in variables.
